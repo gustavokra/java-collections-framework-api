@@ -1,4 +1,4 @@
-package org.kraemer.map.pesquisa;
+package org.kraemer.map.pesquisa.estoqueProdutos;
 
 import java.math.BigDecimal;
 
